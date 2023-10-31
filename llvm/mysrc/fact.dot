@@ -1,0 +1,5 @@
+opt: for the -p option: may not occur within a group!
+opt: Unknown command line argument '-passess=hello-world'.  Try: '../build/bin/opt --help'
+opt: Did you mean '-p'?
+opt: Unknown command line argument '-fact.ll'.  Try: '../build/bin/opt --help'
+opt: Did you mean '--tti'?
