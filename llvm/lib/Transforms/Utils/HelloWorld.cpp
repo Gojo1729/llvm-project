@@ -82,7 +82,7 @@ PreservedAnalyses HelloWorldPass::run(Function &F,
   errs() << "Number of Basic blocks in Function " << F.getName()
          << " is = " << basicBlockCount << "\n";
 
-  errs() << "Max block =" << maxBlockSizeName << " with size "
+  errs() << "Max block = " << maxBlockSizeName << " with size "
          << maxBasicBlockSize << "\n";
 
   errs() << "BB with more than 2 predecessors \n";
